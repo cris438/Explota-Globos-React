@@ -67,3 +67,29 @@ La mayor dificultad fue **controlar la aparición y desaparición de los globos*
 - Se implementó la función **`procesos`**, que detiene el ciclo del `setInterval` y reinicia el tablero cuando se alcanzan 5 globos activos.  
 - Se utilizó un **array de divs** para representar las casillas del tablero y se actualizó con `setSlots` en cada intervalo.  
 - La combinación de `setInterval`, el array de divs y la función `procesos` permitió controlar tanto la aparición como la desaparición de los globos de manera automática y ordenada.  
+
+# 🖼️ Capturas de pantalla
+
+## 🏠 Pantalla de Inicio
+
+<p align="center">
+  <img src="./screenshots/Inicio.png" alt="Pantalla de Inicio" width="800">
+</p>
+
+---
+
+## 🎮 Pantalla del Juego
+
+<p align="center">
+  <img src="./screenshots/Juego.png" alt="Pantalla del Juego" width="800">
+</p>
+
+---
+
+## 🏆 Pantalla Final
+
+<p align="center">
+  <img src="./screenshots/Final.png" alt="Pantalla Final" width="800">
+</p>
+
+---
