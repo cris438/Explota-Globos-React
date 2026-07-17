@@ -1,0 +1,49 @@
+.globo {
+  width: 60px;
+  height: 80px;
+  border-radius: 50% 50% 45% 45%;
+  position: relative;
+  margin: 10px;
+  box-shadow: inset -5px -10px rgba(0,0,0,0.2);
+}
+
+/* Colores */
+.globo-red { background: #ff4d4d; }
+.globo-blue { background: #4da6ff; }
+.globo-green { background: green; }
+.globo-black { background: #333; }
+
+/* Brillo */
+.shine {
+  position: absolute;
+  top: 12px;
+  left: 18px;
+  width: 12px;
+  height: 20px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.6);
+}
+
+/* Nudo del globo */
+.knot {
+  position: absolute;
+  bottom: -8px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 12px;
+  height: 8px;
+  background: inherit; /* mismo color del globo */
+  border-radius: 50%;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+/* Cuerda */
+.rope {
+  position: absolute;
+  bottom: -25px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 2px;
+  height: 25px;
+  background: #ffffff;
+}
