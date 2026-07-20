@@ -17,14 +17,18 @@ Además, el proyecto incluye un **Contexto General** para manejar pantallas y el
 ---
 
 ## ▶️ Instrucciones para ejecutar el proyecto
-1. Clonar el repositorio.  
-2. Instalar dependencias con:  
+1. Clonar el repositorio,en la terminal: 
+
+        git clone git@github.com:cris438/Explota-Globos-React.git
+
+2. Instalar dependencias dentro de la misma carpeta clonada, con:  
    ```bash
    npm install
 Ejecutar el proyecto en modo desarrollo con Vite:
 
-bash
-npm run dev
+en la terminal:
+
+    npm run dev
 Abrir en el navegador:
 
 Código
