@@ -52,7 +52,7 @@ const PantallaJuego = () => {
                 </div>
 
                 <div className="footer-section control-section">
-                    <button type="button" className="btn-pause">Pausar</button>
+                    <h3>¡Tu puedes!</h3>
                 </div>
 
                 <div className="footer-section points-legend">
